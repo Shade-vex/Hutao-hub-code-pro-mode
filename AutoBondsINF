@@ -330,7 +330,7 @@ if game.PlaceId == 70876832253163 or game.PlaceId == 98018823628597 then
 
     -- Tự động tải và chạy Auto Bond script
     local success, err = pcall(function()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/Shade-vex/Hutao-hub-code-pro-mode/refs/heads/main/Auto-Bond-Hutao.txt"))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Shade-vex/DeadRails/refs/heads/main/Viet-Nam-Number-One.txt"))()
     end)
 
     if not success then
